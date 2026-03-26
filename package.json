@@ -1,0 +1,12 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sajit",
+  "license": "ISC",
+  "description": ""
+}
