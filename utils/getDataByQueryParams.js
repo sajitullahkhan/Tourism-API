@@ -18,7 +18,6 @@ export const getDataByQueryParams = (data, queryObj) => {
     data = data.filter((destination) => {
       return destination.is_open_to_public === JSON.parse(is_open_to_public)
     })
-    console.log(data)
   }
   return data
 
